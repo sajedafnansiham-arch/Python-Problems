@@ -14,7 +14,7 @@ Diploma in Computer Science (2nd Semester)
 - Build a strong programming foundation
 
 ## 🚀 Progress
-- ✅ Practice 01-036
+- ✅ Practice 01-060
 - ⏳ More problems coming soon...
 
 Happy Coding! 💙
